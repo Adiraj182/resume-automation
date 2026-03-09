@@ -1,0 +1,23 @@
+Python
+SQL
+Power BI
+Excel
+pandas
+NumPy
+scikit-learn
+RapidMiner
+Jupyter Notebook
+Tableau
+dashboards
+ETL
+data cleaning
+data visualization
+statistics
+NLP
+reinforcement learning
+risk analysis
+Azure
+Azure Machine Learning
+Azure Data
+Github
+

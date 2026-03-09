@@ -1,0 +1,69 @@
+PERSONAL PROFILE
+Detail oriented graduate of Artificial Intelligence Software Development and current Business Intelligence Systems student with hands on experience in Python, SQL, and Power BI for data analysis and reporting. Strong foundation in machine learning, data cleaning, and statistical analysis, with academic projects in predictive modelling, NLP, and reinforcement learning. Able to translate complex data into clear insights and dashboards, and comfortable working in fast paced, team based environments.
+  SKILLS
+•	Programming Languages: Python, Java, SQL, JavaScript, PHP, HTML, CSS, Prolog, C
+•	Database Management Systems: MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database, Microsoft Access
+•	Data Science & Machine Learning Tools: RapidMiner, Jupyter Notebook, scikit-learn, pandas, NumPy, Matplotlib, OpenCV, MediaPipe, TensorFlow (basic), YOLOv8, MMDetection, MMPretrain, Stable-Baselines3, Gymnasium
+•	Software & Development Environments: VS Code, PyCharm, Eclipse, MySQL Workbench, SQL Server Management Studio (SSMS), XAMPP, FileZilla, Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
+•	Web & App Development Skills: Flask (Python Web Framework), HTML / CSS / JS Frontend Design, PHP Backend Development, Database Integration, Authentication & Session Management, Form Validation
+•	AI & Robotics Development: ROS 2 Humble, Gazebo 11 Simulator, OpenCV Vision Modules, iRobot Create 3 Simulation, Q-Learning & PPO/DQN Agents, Sensor Fusion Basics
+ EDUCATION	
+
+Business Intelligence System Infrastructure Graduate Certificate                                      2025 - 2026
+  Algonquin College, Ottawa, Ontario, Canada
+•	In progress
+
+Artifical Intelligence Software Development Graduate Certificate                                       2024 - 2025
+Algonquin College, Ottawa, Ontario, Canada
+•	Graduated with GPA 3.2 / 4.0
+Bachelor'S degree in Computer Applications	2021 - 2023
+Don Bosco College, Calicut University, Thrissur, Kerala, India
+•	Graduated with 85 % aggregate
+
+
+
+
+
+
+
+ACADEMIC PROJECTS
+•	Reinforcement Learning Robot: Create3 Red Ball Tracker (ROS 2 + Gazebo + Gymnasium) : Technologies: ROS 2 Humble, Gazebo 11, Python, OpenCV, Stable-Baselines3 (PPO/DQN), Q-Learning
+•	Object Detection and Tracking System with YOLOv8 and Norfair : Implemented real-time object detection using YOLOv8 with integrated tracking via Norfair.
+•	Geology Question Answering System (NLP Project) : Built a retriever-reader architecture using BERT for extractive question answering.
+•	Cleveland Heart Disease Dataset Analysis (Project in RapidMiner) : Performed data cleaning, normalization, and feature engineering for predictive analysis.
+•	Online Proctoring System (Don Bosco College – Final Year Project) : Technologies: PHP, MySQL, HTML, CSS, JavaScript. Developed a secure web-based system to monitor online examinations using live webcam streams.
+•	Risk Assessment Tool : Guided companies through risk questions and generated risk heat map outputs.
+•	Spotify Data Analysis (Python): Analyzed Spotify tracks and visualized trends in popularity and audio features.
+EXPERIENCE
+
+Kitchen Crew / Grill Cook	2025 – Present
+Osmow’s Mediterranean Restaurant, Ottawa, ON Canada
+•	Earned “Employee of the Month” within two months for strong efficiency and reliability.
+•	Prepare and grill Mediterranean dishes such as shawarma, wraps, and plates with precision and speed.
+•	Coordinate efficiently with front-line staff to ensure smooth service and quick order turnaround.
+•	Adapt to high-volume service hours while managing multiple orders simultaneously.
+•	Exhibit teamwork, reliability, and flexibility by assisting with prep work, dishwashing, and inventory checks.
+Pizza Chef / Sandwich Maker	2025 – 2025
+Tulips Café, 1053 Carling Ave, Ottawa, ON K1Y 1J8
+•	Prepared pizzas, sandwiches, and salads according to hospital dietary standards and customer preferences.
+•	Ensured consistent food quality, portion control, and adherence to food safety regulations.
+•	Supported team members during rush periods, demonstrating strong time management and multitasking.
+Nss Volunteer	2021 – 2024
+Don Bosco College, Thrissur, Kerala, India
+•	Participated in the National Service Scheme (NSS), a government-backed initiative promoting social service and volunteer work in communities.
+•	Engaged in activities such as cleanliness drives, environmental conservation efforts, and community development projects.
+
+CERTIFICATIONS
+
+•	Microsoft Certified: Azure AI Engineer Associate 
+Credential ID: 7EA1F313386D8998 | Earned: March 2025 
+
+•	Microsoft Certified: Azure Data Scientist Associate 
+Credential ID: D8098E22083C1B47 | Earned: March 2025 
+
+
+
+
+ EXRACURRICULAR ACTIVITIES
+•	Creative Drawing: Strong attention to detail and creative thinking, skills that transfer well to tasks requiring precision and fresh ideas
+•	Culinary Enthusiast: I enjoy cooking, baking, and experimenting with different culinary techniques, which has honed my ability to follow recipes accurately and manage multiple tasks in the kitchen
